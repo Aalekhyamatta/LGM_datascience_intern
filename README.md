@@ -34,6 +34,12 @@ Task 1: Develop a Neural Network that can read hand writing
 
 Task 2: Next word prediction  
 
+  ________________________________________________________________________________________________________
+
+__More Advanced Level:__  
+
+Task:ML Facial recognition to detect mood and suggest songs accordingly 
+
 
 
 
